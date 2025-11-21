@@ -1,7 +1,5 @@
 # Landing Page Karang Taruna — Next.js
 
-Struktur ini menetapkan fondasi teknis proyek tanpa narasi pemasaran.
-
 ## Tujuan
 
 Menampilkan profil, kegiatan, dokumentasi, dan kontak Karang Taruna dalam format statis-dinamis dengan rendering cepat dan struktur komponen terukur.
